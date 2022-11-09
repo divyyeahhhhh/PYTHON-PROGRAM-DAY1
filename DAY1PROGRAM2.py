@@ -13,5 +13,5 @@ for j in range(Number):
     else:
         Odd_Sum = Odd_Sum + NumList[j]
 
-print("\nTHE SUM OF ODD NUMBERS IN THE GIVEN LIST =  ", Even_Sum)
-print("THE SUM OF EVEN NUMBER IN THE GIVEN LIST=  ",Odd_Sum)
+print("\nTHE SUM OF EVEN NUMBERS IN THE GIVEN LIST =  ", Even_Sum)
+print("THE SUM OF ODD NUMBER IN THE GIVEN LIST=  ",Odd_Sum)
